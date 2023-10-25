@@ -2439,7 +2439,7 @@ Announcement Area CSS
   content: "";
   height: 100%;
   width: 100%;
-  background-color: #0523a5;
+  background-color: #445ed3;
   left: 0;
   right: 0;
   top: 0;
@@ -7079,7 +7079,7 @@ Copy Right Area CSS
 .copyright-area {
   padding-top: 35px;
   padding-bottom: 35px;
-  background-color: #172b3b;
+  background-color: #000000;
 }
 
 .copyright-area .copyright-area-content p {

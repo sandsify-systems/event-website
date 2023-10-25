@@ -168,7 +168,7 @@ jQuery(function ($) {
 
 	// Count Time 
 	function makeTimer() {
-		var endTime = new Date("September 30, 2024 17:00:00 PDT");			
+		var endTime = new Date("November 14, 2023 09:00:00 WAT");			
 		var endTime = (Date.parse(endTime)) / 1000;
 		var now = new Date();
 		var now = (Date.parse(now) / 1000);
@@ -208,7 +208,7 @@ jQuery(function ($) {
 
 	// Count Time 
 	function makeTimer() {
-		var endTime = new Date("December 30, 2024 17:00:00 PDT");			
+		var endTime = new Date("November 14, 2023 09:00:00 PDT");			
 		var endTime = (Date.parse(endTime)) / 1000;
 		var now = new Date();
 		var now = (Date.parse(now) / 1000);
@@ -364,31 +364,6 @@ jQuery(function ($) {
 	});
 
 
-	// Switch Btn
-	$('body').append("<div class='switch-box'><label id='switch' class='switch'><input type='checkbox' onchange='toggleTheme()' id='slider'><span class='slider round'></span></label></div>");
-        
+	 
 }(jQuery));
 
-// function to set a given theme/color-scheme
-function setTheme(themeName) {
-    localStorage.setItem('plonk_theme', themeName);
-    document.documentElement.className = themeName;
-}
-// function to toggle between light and dark theme
-function toggleTheme() {
-    if (localStorage.getItem('plonk_theme') === 'theme-dark') {
-        setTheme('theme-light');
-    } else {
-        setTheme('theme-dark');
-    }
-}
-// Immediately invoked function to set the theme on initial load
-(function () {
-    if (localStorage.getItem('plonk_theme') === 'theme-dark') {
-        setTheme('theme-dark');
-        document.getElementById('slider').checked = false;
-    } else {
-        setTheme('theme-light');
-      document.getElementById('slider').checked = true;
-    }
-})();
