@@ -54,7 +54,7 @@
             <div class="container">
                 <div class="main-responsive-menu">
                     <div class="logo">
-                        <a href="index.html">
+                        <a href="index">
                             <img src="assets/images/logo.png" class="black-logo" alt="image">
                         </a>
                     </div>
@@ -65,49 +65,53 @@
         <div class="main-navbar">
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index">
                         <img src="assets/images/logo.png" class="black-logo" alt="image">
                     </a>
 
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav m-auto">
                             <li class="nav-item">
-                                <a href="index.html" class="nav-link active">
+                                <a href="/" class="nav-link active">
                                     Home
                                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a href="#about" class="nav-link">About</a>
+                                <a href="about" class="nav-link">About</a>
                             </li>
 
                             <li class="nav-item">
-                                <a href="#event" class="nav-link">
+                                <a href="index" class="nav-link">
                                     Events
                                 </a>
                             </li>
 
                             <li class="nav-item">
-                                <a href="#speakers" class="nav-link">
+                                <a href="index" class="nav-link">
                                     Speakers
                                 </a>
 
                             </li>
 
                             <li class="nav-item">
-                                <a href="#sponsors" class="nav-link">Sponsors</a>
+                                <a href="index" class="nav-link">Sponsors</a>
 
                             </li>
 
-                            <li class="nav-item">
-                                <a href="#contact" class="nav-link">Contact</a>
-                            </li>
+                            <!-- <li class="nav-item">
+                                <a href="index.php/#contact" class="nav-link">Contact</a>
+                            </li> -->
                         </ul>
+
+
+
 
                         <div class="others-options d-flex align-items-center">
 
                             <div class="option-item">
-                                <a href="register.html" class="default-btn">Register<i class='bx bx-arrow-to-right'></i>
+                                <a href="register" target="blank" class="default-btn">Register<i
+                                        class='bx bx-arrow-to-right'></i>
                                     <span></span></a>
                             </div>
                         </div>

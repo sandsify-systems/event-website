@@ -168,7 +168,7 @@ jQuery(function ($) {
 
 	// Count Time 
 	function makeTimer() {
-		var endTime = new Date("November 14, 2023 09:00:00 WAT");			
+		var endTime = new Date("November 21, 2023 09:00:00 WAT");			
 		var endTime = (Date.parse(endTime)) / 1000;
 		var now = new Date();
 		var now = (Date.parse(now) / 1000);
@@ -208,7 +208,7 @@ jQuery(function ($) {
 
 	// Count Time 
 	function makeTimer() {
-		var endTime = new Date("November 14, 2023 09:00:00 PDT");			
+		var endTime = new Date("November 21, 2023 09:00:00 PDT");			
 		var endTime = (Date.parse(endTime)) / 1000;
 		var now = new Date();
 		var now = (Date.parse(now) / 1000);

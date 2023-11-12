@@ -11,7 +11,7 @@
                             <p>RENEWED HOPE IN SUSTAINABLE AGRICULTURE, FOOD SECURITY AND ECONOMIC DIVERSIFICATION </p>
     
                             <div class="slides-btn">
-                                <a href="register.html" class="default-btn"><i class='bx bx-chevron-right'></i>Register Now<span></span></a>
+                                <a href="register" target="blank" class="default-btn"><i class='bx bx-chevron-right'></i>Register Now<span></span></a>
 
                                 <!-- <a href="https://www.youtube.com/watch?v=ODfy2YIKS1M" class="optional-btn popup-youtube"><i class="flaticon-play-button-arrowhead"></i> Watch Presentation</a> -->
                             </div>
@@ -27,7 +27,7 @@
                             <p>Explore the groundbreaking strategies, innovations, and partnerships that will shape the future of agriculture and food security at the National Agriculture & Food Security Summit. </p>
     
                             <div class="slides-btn">
-                                <a href="register.html" class="default-btn"><i class='bx bx-chevron-right'></i>Register Now<span></span></a>
+                                <a href="register" target="blank" class="default-btn"><i class='bx bx-chevron-right'></i>Register Now<span></span></a>
 
                                 <a href="https://www.youtube.com/watch?v=ODfy2YIKS1M" class="optional-btn popup-youtube"><i class="flaticon-play-button-arrowhead"></i> Watch Presentation</a>
                             </div>
@@ -43,7 +43,7 @@
                             <p>The National Agriculture & Food Security Summit is your gateway to a world of agricultural innovation and sustainable food security solutions.</p>
     
                             <div class="slides-btn">
-                                <a href="register.html" class="default-btn"><i class='bx bx-chevron-right'></i>Register Now<span></span></a>
+                                <a href="register" target="blank" class="default-btn"><i class='bx bx-chevron-right'></i>Register Now<span></span></a>
 
                                 <a href="https://www.youtube.com/watch?v=ODfy2YIKS1M" class="optional-btn popup-youtube"><i class="flaticon-play-button-arrowhead"></i> Watch Presentation</a>
                             </div>
@@ -461,7 +461,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single-speakers">
                             <div class="speakers-image">
-                                <a href="#"><img height="350" src="assets/images/speakers/speakers-3-old.jpg" alt="image"></a>
+                                <a href="#"><img height="350" src="assets/images/speakers/minister-1.jpg" alt="image"></a>
                             </div>
 
                             <div class="speakers-content">
@@ -557,8 +557,9 @@
                 <div class="section-title">
                     <span>Join us for a transformational event</span>
                     <h2>Time is Ticking, Get Ready for Transformation!</h2>
+                    <h1 class="h1 text-center text-light">Nov 21st - 23rd 2023</h1>
                 </div>
-
+                
                 <div class="announcement-soon-content">
                     <div id="timer">
                         <div id="days"></div>
@@ -568,7 +569,7 @@
                     </div>
 
                     <div class="announcement-btn">
-                        <a href="register.html" class="default-btn"><i class='bx bx-arrow-to-right'></i> Register Now<span></span></a>
+                        <a href="register" target="blank" class="default-btn"><i class='bx bx-arrow-to-right'></i> Register Now<span></span></a>
                     </div>
                 </div>
             </div>
@@ -663,7 +664,7 @@
                             </ul>
 
                             <div class="pricing-btn">
-                                <a href="register.html" class="default-btn"><i class='bx bx-arrow-to-right'></i> Register Now <span></span></a>
+                                <a href="register" target="blank" class="default-btn"><i class='bx bx-arrow-to-right'></i> Register Now <span></span></a>
                             </div>
                         </div>
                     </div>
@@ -692,7 +693,7 @@
                             </ul>
 
                             <div class="pricing-btn">
-                                <a href="register.html" class="default-btn"><i class='bx bx-arrow-to-right'></i> Register Now <span></span></a>
+                                <a href="register" target="blank" class="default-btn"><i class='bx bx-arrow-to-right'></i> Register Now <span></span></a>
                             </div>
                         </div>
                     </div>
@@ -721,7 +722,7 @@
                             </ul>
 
                             <div class="pricing-btn">
-                                <a href="register.html" class="default-btn"><i class='bx bx-arrow-to-right'></i> Register Now <span></span></a>
+                                <a href="register" target="blank" class="default-btn"><i class='bx bx-arrow-to-right'></i> Register Now <span></span></a>
                             </div>
                         </div>
                     </div>
