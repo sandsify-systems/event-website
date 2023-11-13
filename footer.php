@@ -95,18 +95,17 @@
 <!-- End Footer Area -->
 
 <!-- Start Copyright Area -->
-<div class="copyright-area">
+<div class="copyright-area ">
     <div class="container">
         <div class="copyright-area-content">
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-6">
                     <p>
                         Copyright @
-                        <script data-cfasync="false"
-                            src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+                        <script data-cfasync="false" src=""></script>
                         <script>document.write(new Date().getFullYear())</script> Plonk All Rights Reserved by
-                        <a href="https://envytheme.com/" target="_blank">
-                            EnvyTheme
+                        <a href="https://sandsify.com/" target="_blank">
+                            Sandsify Systems
                         </a>
                     </p>
                 </div>
@@ -125,7 +124,6 @@
         </div>
     </div>
 </div>
-<!-- End Copyright Area -->
 
 <!-- Start Go Top Area -->
 <div class="go-top">

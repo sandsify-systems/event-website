@@ -2052,6 +2052,7 @@ Experience Area CSS
   border-radius: 10px;
   margin-top: 15px;
   margin-bottom: 15px;
+ 
 }
 
 .fun-fact-inner-box .fun-fact-box.bottom-0 {
@@ -2086,9 +2087,11 @@ Experience Area CSS
 }
 
 .fun-fact-inner-box .fun-fact-box p {
-  font-size: 16px;
-  font-weight: 500;
+  /* font-size: 16px; */
+  font-weight: bold;
   margin-bottom: 0;
+  color: #009933;
+  font-size: 20px;
 }
 
 .fun-fact-inner-box .fun-fact-box:hover .icon i {

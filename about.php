@@ -55,15 +55,16 @@
             <div class="col-lg-6 col-md-12">
                 <div class="about-us-content">
                     <!-- <span>Leadership Conference and Events</span> -->
-                    <h3>The goal of the Summit</h3>
-                    <p>Is to analyze the current state of agriculture in Nigeria, focusing on
+                    <h3>The goal </h3>
+                    <p> The Summit will analyze the current state of agriculture in Nigeria, focusing on
                         the challenges faced and the implications for food security. By examining relevant data, this
                         summit will shed light on the key factors influencing Nigeria's agricultural sector, including
                         insecurity, climate change, inadequate infrastructure, insufficient government policies, and
                         limited access to credit and institutionalization of Research & Development, Innovation,
-                        creativity and technology. The focus shall be in alignment with Renewed Hope of President
-                        Tinubu’s initiatives on;</p>
-                    <ul class="list">
+                        creativity and technology. The focus shall be in alignment with Renewed Hope of President Bola
+                        Ahmed
+                        Tinubu (GCFR).</p>
+                    <!-- <ul class="list">
 
                         <li><i class='bx bx-check'></i>Grain Reserves & Food Storage </li>
                         <li><i class='bx bx-check'></i>Establishment of Commodity boards targeting Cashew, Cocoa,
@@ -77,7 +78,7 @@
                         <li><i class='bx bx-check'></i>Large scale land clearing to improve access to arable land from
                             35% - 65% in 4
                             years starting with 11 River Basin authorities.</li>
-                    </ul>
+                    </ul> -->
 
                     <!-- <div class="about-btn">
                         <a href="about.html" class="default-btn"><i class='bx bx-chevron-right'></i> About Us
@@ -312,6 +313,30 @@
                             </div>
                         </div>
 
+                        <div class="col-lg-6 col-md-6">
+                            <div class="fun-fact-box bottom-0">
+                                <!-- <div class="icon">
+                                    <i class="flaticon-customer"></i>
+                                </div>
+                                <h3>
+                                    <span class="odometer" data-count="680">00</span>
+                                </h3> -->
+                                <p>Gender, Inclusivity & Diversity</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-6 col-md-6">
+                            <div class="fun-fact-box bottom-0">
+                                <!-- <div class="icon">
+                                    <i class="flaticon-customer"></i>
+                                </div>
+                                <h3>
+                                    <span class="odometer" data-count="680">00</span>
+                                </h3> -->
+                                <p>Ag-Data & Innovation</p>
+                            </div>
+                        </div>
+
 
 
                     </div>
@@ -324,7 +349,7 @@
                     <h3>The summit will be organized into 3-day sessions,</h3>
                     <p> featuring plenary sessions, panel
                         discussions, and breakout sessions. Each session will focus on a specific theme (food
-                        chain oriented) or topics related to agriculture and food security focusing the Renewed Hope
+                        security oriented) or topics related to agriculture and food security focusing the Renewed Hope
                         Agenda.</p>
                 </div>
             </div>
